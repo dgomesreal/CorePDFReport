@@ -1,0 +1,66 @@
+﻿@model CorePDFReport.Models.EmployeeInfo
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receipt</title>
+    <link rel="stylesheet" type="text/css" href="file:///D:/Projetos/CorePDFReport/CorePDFReport/Assets/styles.css" />
+</head>
+<body>
+    <header><img src="https://bankone.com.br/wp-content/uploads/2020/11/Logo_bankOne_TAMO-JUNTOS_Amarelo-e-branco_2.png" width="300" height="100"/></header>
+    <h1> Correntista Origem </h1>
+    <p>Código De Autenticação</p>
+    <div>
+        <table>
+            <tr>
+                <th>Nome</th>
+                <th>Agência</th>
+                <th>Conta</th>
+            </tr>
+            <tr>
+                <td>@Model.EmpName</td>
+                <td>@Model.Department</td>
+                <td>@Model.Designation</td>
+            </tr>
+        </table>
+        <h2>Correntista Destino</h2>
+        <table>
+            <tr>
+                <th>Nome</th>
+                <th>Agência</th>
+                <th>Conta</th>
+                <th>Banco Destino</th>
+            </tr>
+            <tr>
+                <td>{0}</td>
+                <td>{1}</td>
+                <td>{2}</td>
+                <td>{3}</td>
+            </tr>
+        </table>
+        <h3>Dados Da Transação</h3>
+        <table>
+            <tr>
+                <th>Data Transação</th>
+                <th>Data Inclusão</th>
+                <th>Valor Transação</th>
+                <th>Custos</th>
+            </tr>
+            <tr>
+                <td>{0}</td>
+                <td>{1}</td>
+                <td>{2}</td>
+                <td>{3}</td>
+            </tr>
+            <tr>
+                <td> Autenticação</td>
+                <td> ID Da Transação</td>
+            </tr>
+        </table>
+    </div>
+    <footer>Site: <a>https://bankone.com.br/</a></footer>
+</body>
+</html>
