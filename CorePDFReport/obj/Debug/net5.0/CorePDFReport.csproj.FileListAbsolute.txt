@@ -354,3 +354,4 @@ D:\Projetos\CorePDFReport\CorePDFReport\obj\Debug\net5.0\CorePDFReport.RazorCore
 D:\Projetos\CorePDFReport\CorePDFReport\obj\Debug\net5.0\Razor\Views\Employee\EmployeeInfo.cshtml.g.cs
 D:\Projetos\CorePDFReport\CorePDFReport\obj\Debug\net5.0\CorePDFReport.RazorTargetAssemblyInfo.cs
 D:\Projetos\CorePDFReport\CorePDFReport\obj\Debug\net5.0\CorePDFReport.Views.pdb
+D:\Projetos\CorePDFReport\CorePDFReport\obj\Debug\net5.0\CorePDFReport.csprojAssemblyReference.cache
