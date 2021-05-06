@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xx8jTDMnu6WywoR46t/UDVoBZMAHfLAbvM71nhtHucMFK2wRU5EH3SPBlkzemDgA+XgTC4mOZiISfvj9HHBS7w==",
+  "dgSpecHash": "rY8X1Ex37oMDSf4gCf5oDAm49MsIU72txstCtvMFvFME0qeeoognSiOVaEU1f60w+qG3x9Pa0UGl250VlbYTag==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj",
+  "projectFilePath": "D:\\Projects\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dgome\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.0.0\\microsoft.aspnetcore.mvc.razor.extensions.3.0.0.nupkg.sha512",
     "C:\\Users\\dgome\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj": {}
+    "D:\\Projects\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj": {
+    "D:\\Projects\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj",
+        "projectUniqueName": "D:\\Projects\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj",
         "projectName": "CorePDFReport",
-        "projectPath": "D:\\Projetos\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj",
+        "projectPath": "D:\\Projects\\CorePDFReport\\CorePDFReport\\CorePDFReport.csproj",
         "packagesPath": "C:\\Users\\dgome\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\CorePDFReport\\CorePDFReport\\obj\\",
+        "outputPath": "D:\\Projects\\CorePDFReport\\CorePDFReport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dgome\\AppData\\Roaming\\NuGet\\NuGet.Config",
